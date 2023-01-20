@@ -4,23 +4,108 @@ Hello Visitor!
 <b> I'm Ashish Biswal</b>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=30&duration=4000&pause=800&color=7765E3&width=600&height=50&lines=Developer+by+Day%2C+Debugger+by+Night!;Learning+about+Scaling+Systems+)](https://git.io/typing-svg)
+
 <ul>
 <li>Tech @ <a href="https://www.linkedin.com/company/bitglaze-technologies/about/">Bitglaze</a></li>
-<li>I’m currently working on <b>BI Tool Platform</b></li>
-<li>I’m currently learning <b>Golang and DevOps</b></li>
-<li>I’m looking to collaborate on <b>Golang BaaS, Posgres services</b></li>
-<li>Ask me about <b>Django, Golang</b></li>
-<li>Fun fact <b>No one calls me Ashish</b></li>
+
+<li>I’m currently working on <b>BI Tool & ETL Platform</b></li>
+
+<li>Worked with <b>Python, Django & FastAPI</b>. Right now getting more hands on <b>Golang and DevOps.</b></li>
+<li>Let's work & build scalable systems together<b>(Maybe getting a bit Rusty too).</b>
+<!-- <img width="30px" src="https://raw.githubusercontent.com/Biswal21/Biswal21/main/assets/rusty.png"></img> -->
+</li>
+<li>Fun fact 💩: Been here today from a lover of <b>Django Developer</b> to it's devil advocate.</li>
+<!-- <li>Contact me: <a href="ashishbiswal1421@gmai.com"><a></li> -->
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish-biswal-1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-biswal-1402" height="30" width="40" /></a>
+<!-- LINKEDIN -->
+<a href="https://linkedin.com/in/ashish-biswal-1402" target="blank">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashish-biswal-1402"/>
+</a>
+<!-- GMAIL -->
+<a href="ashishbiswal1421@gmail.com" target="blank">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/-Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishbiswal1421@gmail.com"/>
+</a>
+<!-- TWITTER -->
+<a href="https://twitter.com/brubber14" target="blank">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="brubber21"/>
+</p>
+ 
+---
+
+<h3 align="left">Languages and Tools </h3>
+<p align="left">
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" style="padding-right:10px;"/> 
+</a> 
+<!-- Golang -->
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="50" style="padding-right:10px;"/> 
+</a> 
+<!-- Typescript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" style="padding-right:10px;"/> 
+</a> 
+<!-- CPP -->
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="50" style="padding-right:10px;"/> 
+</a>
+<!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" style="padding-right:10px;" alt="django"/>
+          
+</a>
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" style="padding-right:10px;"/> 
+</a>
+<!-- React JS -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" style="padding-right:10px;"/> 
+</a>
+<!-- Postgres -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="50" style="padding-right:10px;"/> 
+</a> 
+<!-- Redis -->
+<a href="https://redis.io" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" alt="redis" width="50" style="padding-right:10px;"/> 
+</a> 
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="50" style="padding-right:10px;"/>
+</a>
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="50" style="padding-right:10px;"/>
+</a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="50" style="padding-right:10px;"/>
+</a> 
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" style="padding-right:10px;"/>
+</a>
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50"style="padding-right:10px;"/> 
+</a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img width="80px" src="https://camo.githubusercontent.com/9e342bd35a241b71d3e030508048a7afcd2152475a3def94e59473ea67d68ca8/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966"  /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswal21&label=Profile%20views&color=0e75b6&style=flat" alt="biswal21" /> </p>
+### Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswal21&show_icons=true&locale=en" alt="biswal21" /></p>
+![Profile views](https://komarev.com/ghpvc/?username=biswal21&color=339989&style=for-the-badge&label=Profile%20Views)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=biswal21&theme=tokyonight)](https://git.io/streak-stats)
+
+<p>
+<img align="left" src="https://github.com/Biswal21/Biswal21/blob/main/assets/gopher.gif?raw=true" alt="gopher" width="140"/>
+<img align="right" src="https://github.com/Biswal21/Biswal21/blob/main/assets/rusty.png?raw=true" alt="rusty" width="140"/>
+</p>
