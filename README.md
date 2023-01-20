@@ -15,7 +15,7 @@ Hello Visitor!
 <li>Let's work & build scalable systems together<b>(Maybe getting a bit Rusty too).</b>
 <!-- <img width="30px" src="https://raw.githubusercontent.com/Biswal21/Biswal21/main/assets/rusty.png"></img> -->
 </li>
-<li>Fun fact 💩: Been here today from a lover of <b>Django Developer</b> to it's devil advocate.</li>
+<li>Fun fact 💩: Was once a blind lover of <b>Developing in Django</b> to it's devil advocate today.</li>
 <!-- <li>Contact me: <a href="ashishbiswal1421@gmai.com"><a></li> -->
 </ul>
 
