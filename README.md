@@ -106,6 +106,6 @@ Hello Visitor!
 [![GitHub Streak](https://streak-stats.demolab.com?user=biswal21&theme=tokyonight)](https://git.io/streak-stats)
 
 <p>
-<img align="left" src="https://github.com/Biswal21/Biswal21/blob/main/assets/gopher.gif?raw=true" alt="gopher" width="140"/>
+<img align="left" src="https://github.com/Biswal21/Biswal21/blob/main/assets/gopher.gif?raw=true" alt="gopher" width="200" height="100"/>
 <img align="right" src="https://github.com/Biswal21/Biswal21/blob/main/assets/rusty.png?raw=true" alt="rusty" width="140"/>
 </p>
