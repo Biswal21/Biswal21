@@ -100,10 +100,16 @@ Hello Visitor!
 ---
 
 ### Stats
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=biswal21&color=339989&style=for-the-badge&label=Profile%20Views" alt="ghpv"/>
+</p>
+<p align="center">
+ <a href="https://git.io/streak-stats">
+ <img src="https://streak-stats.demolab.com?user=biswal21&theme=tokyonight" alt="ghstats"/>
+ </a>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=biswal21&color=339989&style=for-the-badge&label=Profile%20Views)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=biswal21&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=biswal21&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <p>
 <img align="left" src="https://github.com/Biswal21/Biswal21/blob/main/assets/gopher.gif?raw=true" alt="gopher" width="200" height="100"/>
