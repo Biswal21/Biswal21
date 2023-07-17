@@ -7,15 +7,11 @@ Hello Visitor!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=30&duration=4000&pause=800&color=7765E3&width=600&height=50&lines=Developer+by+Day%2C+Debugger+by+Night!;Learning+about+Scaling+Systems+)](https://git.io/typing-svg)
 
 <ul>
-<li>Tech @ <a href="https://www.linkedin.com/company/bitglaze-technologies/about/">Bitglaze</a></li>
-
-<li>I’m currently working on <b>BI Tool & ETL Platform</b></li>
-
+<li>Worked on a No-SQL builder for a <b>BI Tool & ETL Platform.</b></li>
 <li>Worked with <b>Python, Django & FastAPI</b>. Right now getting more hands on <b>Golang and DevOps.</b></li>
-<li>Let's work & build scalable systems together<b>(Maybe getting a bit Rusty too).</b>
+<li>Let's work & try miantaining healthy scalable systems together.
 <!-- <img width="30px" src="https://raw.githubusercontent.com/Biswal21/Biswal21/main/assets/rusty.png"></img> -->
 </li>
-<li>Fun fact 💩: Was once a blind lover of <b>Developing in Django</b> to it's devil advocate today.</li>
 <!-- <li>Contact me: <a href="ashishbiswal1421@gmai.com"><a></li> -->
 </ul>
 
